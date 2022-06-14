@@ -35,9 +35,6 @@
             }
         }
     },
-    "url": {
-        "original": "https://www.amazon.fr/s?i=merchant-items&amp;me=A1TLEYKQIC7812&amp;marketplaceID=A13V1IB3VIYZZH&amp;qid=1649187214&amp;ref=sr_pg_1"
-    },
     "user": {
       "email": "email@example.org",
       "name": "email@example.org"
